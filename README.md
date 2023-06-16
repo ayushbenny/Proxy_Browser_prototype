@@ -1,4 +1,4 @@
-# Proxy Class
+# Proxy Fetcher
 
 The Proxy class provides functionality for managing and using proxy servers. It allows you to retrieve a list of available proxies, check their status, and launch browser sessions with selected proxies.
 
